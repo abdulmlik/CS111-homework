@@ -26,7 +26,7 @@ with the highest version
 3. Build
 
 
-- Open "Editor code.f95" with FTN95.
+- Open "*.f95" with FTN95.
 - Compile.
 
 ===========
