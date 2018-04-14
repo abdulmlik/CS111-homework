@@ -19,7 +19,7 @@ with the highest version
 
 - Create an empty folder anywhere
 - In explorer right click and select "Git Bash" then git clone URL <br />
- set URL https://github.com/abdulmlik/simple-lexical-scanner.git
+ set URL https://github.com/abdulmlik/CS111-homework.git
  enter
 
 
